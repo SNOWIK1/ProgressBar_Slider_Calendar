@@ -1,0 +1,31 @@
+﻿<Window x:Class="Slider_ProgressBar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Slider_ProgressBar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Left">
+            <StackPanel>
+                <Label x:Name="lbl" Content="Add 1/5"/>
+                <ProgressBar x:Name="bar_task1" Minimum="0" Maximum="100" Value="0" Height="15" Width="400" Foreground="Blue"/>
+                <Button Content="Add 1/5" MaxWidth="80" Margin="0 10" Click="add_1_5"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Add 1/20 by seconds"/>
+                <ProgressBar x:Name="bar_task2" Minimum="0" Maximum="100" Value="0" Height="15" Width="400" Foreground="Blue"/>
+                <Button Content="Start" MaxWidth="80" Margin="0 10" Click="add_20"/>
+            </StackPanel>
+            <StackPanel>
+                <Label  Content="You can see value in window's title"/>
+                <Slider x:Name="slider" Value="0" Minimum="0" Maximum="100" SelectionStart="0" Height="40" IsSelectionRangeEnabled="True" ValueChanged="SliderValueChanged" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Calendar x:Name="calendar" SelectionMode="SingleDate" SelectedDatesChanged="selectDate"/>
+                <Label x:Name="dateOutput" VerticalAlignment="Center" Margin="10"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

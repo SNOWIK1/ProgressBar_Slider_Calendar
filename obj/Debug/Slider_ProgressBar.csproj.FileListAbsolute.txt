@@ -1,0 +1,15 @@
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\bin\Debug\Slider_ProgressBar.exe.config
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\bin\Debug\Slider_ProgressBar.exe
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\bin\Debug\Slider_ProgressBar.pdb
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\obj\Debug\Slider_ProgressBar.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\obj\Debug\MainWindow.g.cs
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\obj\Debug\App.g.cs
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\obj\Debug\Slider_ProgressBar_MarkupCompile.cache
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\obj\Debug\Slider_ProgressBar_MarkupCompile.lref
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\obj\Debug\MainWindow.baml
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\obj\Debug\Slider_ProgressBar.g.resources
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\obj\Debug\Slider_ProgressBar.Properties.Resources.resources
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\obj\Debug\Slider_ProgressBar.csproj.GenerateResource.cache
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\obj\Debug\Slider_ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\obj\Debug\Slider_ProgressBar.exe
+C:\Users\user.COMP-02\source\repos\Slider_ProgressBar\obj\Debug\Slider_ProgressBar.pdb
